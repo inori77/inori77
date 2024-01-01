@@ -92,6 +92,5 @@
 
 [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[GitHubプロフィールをクールにカスタマイズ](https://qiita.com/rised/items/f3385b589149dcf34a26)
 
 
